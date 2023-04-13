@@ -22,13 +22,8 @@ const Nav = () =>{
                 </a>
                 <button className={styles.nav_resume_btn}>Resume</button>
             </div>
-
         </nav>
-
-
     )
-
-
 }
 
 export default Nav;
