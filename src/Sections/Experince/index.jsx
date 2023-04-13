@@ -9,7 +9,7 @@ const Experience =() =>{
     const [currentIndex, setCurrentIndex] = useState(0);
     
     return(
-        <section id="experince">
+        <section id="experience">
             <Heading index="02" heading="Where I've Worked"/>
             <div class={styles.container}>
                 <div className={styles.left}> 
