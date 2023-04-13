@@ -1,8 +1,9 @@
 import Home from "./Sections/Home";
 import About from "./Sections/About";
-import Experince from "./Sections/Experince";
+import Experience from "./Sections/Experince";
 import Nav from "./Components/Nav";
 import Contact from "./Components/Contact";
+import Work from "./Sections/Work";
 import Footer from "./Components/Footer";
 import './App.css';
 
@@ -13,7 +14,8 @@ function App() {
       <div className="app_section_container">
         <Home/>
         <About/>
-        <Experince/>
+        <Experience/>
+        <Work/>
       </div>
       <Contact/>
       <Footer/>
