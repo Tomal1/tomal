@@ -4,7 +4,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import styles from "./styles.module.css";
 
-const Contact = () => {
+const ContactBar = () => {
 	return (
 		<div className={styles.contact_bar_wrapper}>
 			<div className={styles.contact_bar}>
@@ -32,4 +32,4 @@ const Contact = () => {
 	);
 }
 
-export default Contact;
+export default ContactBar;

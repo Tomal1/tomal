@@ -12,7 +12,7 @@ const Contact = () =>{
 				Feel free to get in touch with me. I am always open to discussing new
 				projects, creative ideas or opportunities to be part of your visions.
 			</p>
-			<a href="mailto:johnsmith@gmail.com">
+			<a href="mailto:minhazulislam@hotmail.com">
 				<button className={styles.btn}>Say Hello</button>
 			</a>
 		</section>

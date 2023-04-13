@@ -2,8 +2,9 @@ import Home from "./Sections/Home";
 import About from "./Sections/About";
 import Experience from "./Sections/Experince";
 import Nav from "./Components/Nav";
-import Contact from "./Components/Contact";
 import Work from "./Sections/Work";
+import ContactBar from "./Components/ContactBar";
+import Contact from "./Sections/Contact";
 import Footer from "./Components/Footer";
 import './App.css';
 
@@ -16,8 +17,9 @@ function App() {
         <About/>
         <Experience/>
         <Work/>
+        <Contact/>
       </div>
-      <Contact/>
+      <ContactBar/>
       <Footer/>
     </main>
 
