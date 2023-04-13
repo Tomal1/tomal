@@ -1,6 +1,6 @@
-
 import Heading from "../../Components/Heading";
 import styles from "./styles.module.css";
+import Tomal from "./tomal.jpeg";
 
 const About =()=>{
 
@@ -18,7 +18,7 @@ const About =()=>{
                 </div>
                 <div className={styles.right}>
                     <img 
-                        src="../"
+                        src= {Tomal}
                         alt="profile"
                         className={styles.profile_img}
                     />
