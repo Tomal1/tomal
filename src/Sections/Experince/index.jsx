@@ -1,10 +1,13 @@
 import { useState } from "react";
 import Heading from "../../Components/Heading";
+import constant from "../../constant.json";
+import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import styles from "./styles.module.css";
 
-const Experince =() =>{
+const Experience =() =>{
 
     const [currentIndex, setCurrentIndex] = useState(0);
+    
     return(
         <section id="experince">
             <Heading index="02" heading="Where I've Worked"/>
@@ -25,9 +28,9 @@ const Experince =() =>{
                 </div>
                 <div className={styles.right}>
                     <h1 className={styles.title}>
-                        {constant.experiences[currentIndex].title}{""}
+                        {constant.experiences[currentIndex].title}{" "}
                         <a 
-                            href={constant.experience[currentIndex].link}
+                            href={constant.experiences[currentIndex].link}
                             target="_blank"
                             rel="noreferrer"
                             >
@@ -41,13 +44,11 @@ const Experince =() =>{
                         <p className={styles.desc}>
                             <PlayArrowIcon/> {point}
                         </p>
-
                     ))}
                 </div>
             </div>
         </section>
-
-    )
+    );
 }
 
-export default Experince;
+export default Experience;
