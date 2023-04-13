@@ -1,4 +1,4 @@
-import styles from "./styles.css.module.css";
+import styles from "./styles.module.css";
 
 const Footer = () =>{
     <footer className={styles.footer_container}>
