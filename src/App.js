@@ -6,23 +6,22 @@ import Work from "./Sections/Work";
 import ContactBar from "./Components/ContactBar";
 import Contact from "./Sections/Contact";
 import Footer from "./Components/Footer";
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <main className="main">
-      <Nav/>
+      <Nav />
       <div className="app_section_container">
-        <Home/>
-        <About/>
-        <Experience/>
-        <Work/>
-        <Contact/>
+        <Home />
+        <About />
+        <Experience />
+        <Work />
+        <Contact />
       </div>
-      <ContactBar/>
-      <Footer/>
+      <ContactBar />
+      <Footer />
     </main>
-
   );
 }
 
