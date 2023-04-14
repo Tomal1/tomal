@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tomal1/tomal/static/css/main.bfb43aab.css",
+    "main.js": "/Tomal1/tomal/static/js/main.b444fbdc.js",
+    "static/media/tomal.jpeg": "/Tomal1/tomal/static/media/tomal.ba3a3a9ca5e7addaada2.jpeg",
+    "index.html": "/Tomal1/tomal/index.html",
+    "main.bfb43aab.css.map": "/Tomal1/tomal/static/css/main.bfb43aab.css.map",
+    "main.b444fbdc.js.map": "/Tomal1/tomal/static/js/main.b444fbdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb43aab.css",
+    "static/js/main.b444fbdc.js"
+  ]
+}
