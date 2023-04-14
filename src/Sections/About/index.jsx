@@ -9,16 +9,17 @@ const About = () => {
       <div className={styles.container}>
         <div className={styles.left}>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
-            dolores, iusto commodi inventore quae pariatur quos neque tempore,
-            debitis numquam necessitatibus eligendi dolore earum officia, sit ea
-            eos at molestias.
+            Tomal is an aspiring software engineer; his tech journey began after
+            browsing a job search website where he would repeatedly came across keywords such
+            as: HTML, CSS & JavaScript. Curiosity played a role in Tomal’s
+            investigation that eventually led him to the FreeCodeCamp website.
+            For several months he dedicates his effort into studying the syllabus which spirals
+            into an obsession.
           </p>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque
-            dolores, iusto commodi inventore quae pariatur quos neque tempore,
-            debitis numquam necessitatibus eligendi dolore earum officia, sit ea
-            eos at molestias.
+            Tomal has now come to the conclusion that knowing how to learn,
+            adapting to an ever changing environment and people skills are his 
+            most precious qualities.
           </p>
         </div>
         <div className={styles.right}>
