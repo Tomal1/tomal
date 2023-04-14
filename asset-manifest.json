@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/tomal/static/css/main.bfb43aab.css",
-    "main.js": "/tomal/static/js/main.0c983bba.js",
+    "main.js": "/tomal/static/js/main.053244bb.js",
     "static/media/tomal.jpeg": "/tomal/static/media/tomal.ba3a3a9ca5e7addaada2.jpeg",
+    "static/media/resume.pdf": "/tomal/static/media/resume.683999eefb099625a63e.pdf",
     "index.html": "/tomal/index.html",
     "main.bfb43aab.css.map": "/tomal/static/css/main.bfb43aab.css.map",
-    "main.0c983bba.js.map": "/tomal/static/js/main.0c983bba.js.map"
+    "main.053244bb.js.map": "/tomal/static/js/main.053244bb.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb43aab.css",
-    "static/js/main.0c983bba.js"
+    "static/js/main.053244bb.js"
   ]
 }
