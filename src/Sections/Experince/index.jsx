@@ -9,7 +9,7 @@ const Experience = () => {
 
   return (
     <section id="experience">
-      <Heading index="02" heading="Where I've Worked" />
+      <Heading index="02" heading="Some places I have worked in the past" />
       <div class={styles.container}>
         <div className={styles.left}>
           {constant.experiences.map((experience, index) => (

@@ -1,58 +1,54 @@
 {
     "experiences": [
         {
-            "company": "Microsoft",
-            "link": "/",
-            "title": "Sr. Frontend Developer",
-            "duration": "Aug 2021 - Present",
+            "company": "FMGRS",
+            "link": "https://www.fmgrepairservices.co.uk/",
+            "title": "Driver",
+            "duration": "20.09.21 – 31.08.22",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Achievement for most vehicle damage inspection consecutively 5 months in a row and acknowledgement for the best team player as well as customer interaction.",
+                "Carry out vehicle damage inspection before driving it back to HQ and delivering it back once the repairs have been completed.",
+                "Taking photos of vehicles involved in collisions on behalf of the estimators; who will assess the extent of the damage and establish a price for the insurance company."
             ]
         },
         {
-            "company": "Apple",
-            "link": "/",
-            "title": "Jr. Frontend Developer",
-            "duration": "Jan 2021 - Aug 2021",
+            "company": "XLN Telecom",
+            "link": "https://www.xln.co.uk/",
+            "title": "Credit Controller ",
+            "duration": "04.04.19 – 27.04.21",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "Various versions have evolved over the years, sometimes by accident"
+                "Achievement for hitting targets 12 months in a row and winning a trip to the Maldives due to excellent customer service.",
+                "Exhaust all methods to connect with clients, recovering arrears or negotiating payment plans, invoice breakdown, courtesy calls, manual credit checks and ensuring excellent customer relationship is maintained for the future."
             ]
         },
         {
-            "company": "Google",
-            "link": "/",
-            "title": "Internship",
-            "duration": "Sep 2020 - Jan 2021",
+            "company": "Santander",
+            "link": "https://www.santander.co.uk/",
+            "title": "Customer service assistant",
+            "duration": "16.01.17 – 07.10.18",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Achievement for passing on 3rd most mortgages referrals in west London and 1st for credit card referrals.",
+                "Greeting customers to identify their needs and educating them on products available to them.",
+                "Supervising counter staff, banking excessive cash, management of the safe and ensure back office administrative duties are updated as necessary. Mitigate risk by adhering to the FCA regulations and carry out risk checks from previous day."
             ]
         }
     ],
     "projects": [
         {
-            "title":"Ecommerce",
+            "title":"Social media app",
             "image": "./images/project_1.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": ""
+            "desc": "This is a social medial web application; it gives the client options to connect with friends, family and share thoughts on a day to day basis (Work in progress).",
+            "skills": ["React", "Express", "MariaDB"],
+            "github": "https://github.com/Tomal1/social-media",
+            "link": "https://social-m.herokuapp.com/"
         },
         {
-            "title":"Spotify",
+            "title":"Rock Paper and Scissors",
             "image": "./images/project_2.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": "/"
+            "desc": "Play Rock, Paper and Scissors against the computer; the functionality of this application is made using vanilla JavaScript.",
+            "skills": ["HTML", "CSS", "JavaScript"],
+            "github": "https://github.com/Tomal1/Rock-Paper-and-Scissors",
+            "link": "https://tomal1.github.io/Rock-Paper-and-Scissors/"
         }
     ]
 }
