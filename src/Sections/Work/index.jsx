@@ -3,6 +3,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import OpenNewIcon from "@mui/icons-material/OpenInNew";
 import constant from "../../constant.json";
 import styles from "./styles.module.css";
+import RPS from "../../Assets/RPS.png";
 
 const Work = () => {
   return (
@@ -18,7 +19,7 @@ const Work = () => {
                   <img
                     src={project.image}
                     className={styles.img}
-                    alt="screen_shot_of_project"
+                    alt="project not finished image cooming soon"
                   />
                 </a>
               </div>
@@ -66,7 +67,7 @@ const Work = () => {
               <div className={styles.right}>
                 <a href={project.link} target="_blank">
                   <img
-                    src={project.image}
+                    src={RPS}
                     className={styles.img}
                     alt="screen_shot_of_project"
                   />
