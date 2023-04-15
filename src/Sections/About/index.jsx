@@ -1,6 +1,6 @@
 import Heading from "../../Components/Heading";
 import styles from "./styles.module.css";
-import Tomal from "./tomal.jpeg";
+import Tomal from "./tomalBlank.png";
 
 const About = () => {
   return (
