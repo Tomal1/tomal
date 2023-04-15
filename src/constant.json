@@ -37,7 +37,6 @@
     "projects": [
         {
             "title":"Social media app",
-            "image": "./Assets/RPS.png",
             "desc": "This is a social medial web application; it gives the client options to connect with friends, family and share thoughts on a day to day basis (Work in progress).",
             "skills": ["React", "Express", "MariaDB"],
             "github": "https://github.com/Tomal1/social-media",
@@ -45,7 +44,6 @@
         },
         {
             "title":"Rock Paper and Scissors",
-            "image": "./Assets/RPS.png",
             "desc": "Play Rock, Paper and Scissors against the computer; the functionality of this application is made using vanilla JavaScript.",
             "skills": ["HTML", "CSS", "JavaScript"],
             "github": "https://github.com/Tomal1/Rock-Paper-and-Scissors",

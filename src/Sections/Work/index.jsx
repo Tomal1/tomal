@@ -19,7 +19,7 @@ const Work = () => {
                   <img
                     src={project.image}
                     className={styles.img}
-                    alt="project not finished image cooming soon"
+                    alt="project not finished image coming soon"
                   />
                 </a>
               </div>
@@ -34,10 +34,18 @@ const Work = () => {
                   ))}
                 </div>
                 <div>
-                  <a href={project.github} className={styles.link} target="_blank">
+                  <a
+                    href={project.github}
+                    className={styles.link}
+                    target="_blank"
+                  >
                     <GitHubIcon />
                   </a>
-                  <a href={project.link} className={styles.link} target="_blank">
+                  <a
+                    href={project.link}
+                    className={styles.link}
+                    target="_blank"
+                  >
                     <OpenNewIcon />
                   </a>
                 </div>
@@ -56,10 +64,18 @@ const Work = () => {
                   ))}
                 </div>
                 <div>
-                  <a href={project.github} className={styles.link} target="_blank">
+                  <a
+                    href={project.github}
+                    className={styles.link}
+                    target="_blank"
+                  >
                     <GitHubIcon />
                   </a>
-                  <a href={project.link} className={styles.link} target="_blank">
+                  <a
+                    href={project.link}
+                    className={styles.link}
+                    target="_blank"
+                  >
                     <OpenNewIcon />
                   </a>
                 </div>
@@ -79,6 +95,6 @@ const Work = () => {
       </div>
     </section>
   );
-}
+};
 
 export default Work;
