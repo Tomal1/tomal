@@ -4,6 +4,7 @@ import OpenNewIcon from "@mui/icons-material/OpenInNew";
 import constant from "../../constant.json";
 import styles from "./styles.module.css";
 import RPS from "../../Assets/RPS.png";
+import sm from "../../Assets/sm.png"
 
 const Work = () => {
   return (
@@ -17,7 +18,7 @@ const Work = () => {
               <div className={styles.left}>
                 <a href={project.link} target="_blank">
                   <img
-                    src={project.image}
+                    src={sm}
                     className={styles.img}
                     alt="project not finished image coming soon"
                   />

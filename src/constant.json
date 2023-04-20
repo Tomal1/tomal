@@ -37,7 +37,7 @@
     "projects": [
         {
             "title":"Social media app",
-            "desc": "This is a social medial web application; it gives the client options to connect with friends, family and share thoughts on a day to day basis (Work in progress).",
+            "desc": "This is a social medial web application; it gives the client options to connect with friends and family - this project is a work in progress and yet to be finished.",
             "skills": ["React", "Express", "MariaDB"],
             "github": "https://github.com/Tomal1/social-media",
             "link": "https://social-m.herokuapp.com/"
