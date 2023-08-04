@@ -4,7 +4,7 @@ import OpenNewIcon from "@mui/icons-material/OpenInNew";
 import constant from "../../constant.json";
 import styles from "./styles.module.css";
 import RPS from "../../Assets/RPS.png";
-import sm from "../../Assets/sm.png"
+import tdl from "../../Assets/tdl.png"
 
 const Work = () => {
   return (
@@ -17,11 +17,7 @@ const Work = () => {
             <div className={styles.project}>
               <div className={styles.left}>
                 <a href={project.link} target="_blank">
-                  <img
-                    src={sm}
-                    className={styles.img}
-                    alt="project not finished image coming soon"
-                  />
+                  <img src={tdl} className={styles.img} alt="project not finished image coming soon"/>
                 </a>
               </div>
               <div className={styles.right}>
@@ -35,18 +31,10 @@ const Work = () => {
                   ))}
                 </div>
                 <div>
-                  <a
-                    href={project.github}
-                    className={styles.link}
-                    target="_blank"
-                  >
+                  <a href={project.github} className={styles.link} target="_blank">
                     <GitHubIcon />
                   </a>
-                  <a
-                    href={project.link}
-                    className={styles.link}
-                    target="_blank"
-                  >
+                  <a href={project.link} className={styles.link} target="_blank">
                     <OpenNewIcon />
                   </a>
                 </div>
@@ -65,29 +53,17 @@ const Work = () => {
                   ))}
                 </div>
                 <div>
-                  <a
-                    href={project.github}
-                    className={styles.link}
-                    target="_blank"
-                  >
+                  <a href={project.github} className={styles.link} target="_blank">
                     <GitHubIcon />
                   </a>
-                  <a
-                    href={project.link}
-                    className={styles.link}
-                    target="_blank"
-                  >
+                  <a href={project.link} className={styles.link} target="_blank">
                     <OpenNewIcon />
                   </a>
                 </div>
               </div>
               <div className={styles.right}>
                 <a href={project.link} target="_blank">
-                  <img
-                    src={RPS}
-                    className={styles.img}
-                    alt="screen_shot_of_project"
-                  />
+                  <img src={RPS} className={styles.img} alt="screen_shot_of_project"/>
                 </a>
               </div>
             </div>

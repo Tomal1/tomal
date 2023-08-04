@@ -36,11 +36,11 @@
     ],
     "projects": [
         {
-            "title":"Social media app",
-            "desc": "This is a social medial web application; it gives the client options to connect with friends and family - this project is a work in progress and yet to be finished.",
-            "skills": ["React", "Express", "MariaDB"],
-            "github": "https://github.com/Tomal1/social-media",
-            "link": "https://social-m.herokuapp.com/"
+            "title":"Full stack to do list",
+            "desc": "This is a fullstack to do list web application demonstrating; create, retrieve, update and delete methods - this project has no been deployed but can be run on local machine",
+            "skills": ["HTML", "CSS", "JS", "Node", "Express", "MariaDB"],
+            "github": "https://github.com/Tomal1/to-do-list-CRUD2",
+            "link": "#"
         },
         {
             "title":"Rock Paper and Scissors",
@@ -51,3 +51,7 @@
         }
     ]
 }
+
+
+
+
